@@ -298,3 +298,9 @@ footer::before {
 .name-list li:hover {
   color: #8b0000;
 }
+
+.quote {
+  font-style: italic;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
